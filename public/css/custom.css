@@ -32,17 +32,6 @@ html,body{
   padding: 30px;
 }
 
-
-a {
-  color: #ff851b;
-  text-decoration: none;
-}
-
-a:hover{
-  color: #ff851b;
-  text-decoration: underline;
-}
-
 .brand{
   line-height: 100px;
   font-size: 42px;
@@ -113,6 +102,16 @@ ul#nav{
 .post-title a:hover{
   color: #ff851b;
   text-decoration: none;
+}
+
+a {
+  color: #ff851b;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #ff851b;
+  text-decoration: underline;
 }
 
 .post-subtitle{
