@@ -1,0 +1,9 @@
+{{ template "master/head.html" }}
+  
+  <ul class="index-posts">
+    {{ range first 5 .Data.Pages }}
+      {{ .Render "li" }}
+    {{ end }}
+  </ul>
+
+{{ template "master/foot.html" }}
