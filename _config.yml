@@ -1,0 +1,16 @@
+# Site settings
+title: rurabe
+email: rurabe@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My blog
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: rurabe
+github_username:  rurabe
+
+# Build settings
+markdown: kramdown
+timezone: America/New_York
+
+defaults:
+  author: "Ryan"
