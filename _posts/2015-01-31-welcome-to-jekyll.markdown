@@ -1,27 +1,18 @@
 ---
 layout: post
 author: Ryan
-title:  "Welcome to Jekyll!"
+title:  "New Blog Redux"
 date:   2015-01-31 13:50:43
-categories: jekyll update
-header-img: "img/great_wave.jpg"
+categories: me
+header-img: "img/site-header.jpg"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+OK, new blog. Again.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This is my latest attempt to find a blogging solution that works for me. All the past attempts have either been too onerous or lacking features I would want, so here's another try.
 
-Jekyll also offers powerful support for code snippets:
+This current iteration is built with [jekyll](http://jekyllrb.com/) and hosted on github. The theme is called [clean blog](http://startbootstrap.com/template-overviews/clean-blog/) with minor modifications by me.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Past blogs:
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+- [medium](https://medium.com/@rurabe)
+- [tumblr](http://ryonrails.tumblr.com/)
