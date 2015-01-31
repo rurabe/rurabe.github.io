@@ -7,10 +7,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: rurabe
 github_username:  rurabe
+header-img: "img/site-header.jpg"
 
 # Build settings
+exclude : ["_resources"]
 markdown: kramdown
+highlighter: pygments
+permalink: pretty
 timezone: America/New_York
-
-defaults:
-  author: "Ryan"
+paginate: 5
