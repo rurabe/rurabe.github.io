@@ -5,14 +5,14 @@ description: > # this means to ignore newlines until "baseurl:"
   My blog
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: rurabe
+facebook_username: rurabe
 github_username:  rurabe
 header-img: "img/site-header.jpg"
 
 # Build settings
 exclude : ["_resources"]
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
-timezone: America/New_York
+timezone: Pacific/Honolulu
 paginate: 5
